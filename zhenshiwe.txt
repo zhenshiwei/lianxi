@@ -5,4 +5,8 @@ as
 d
 asd
 zhenshiwei
+<<<<<<< HEAD
 练习1
+=======
+练习2
+>>>>>>> 5684e7c9f9bf5a3827253fe205bb45b07ffef567
